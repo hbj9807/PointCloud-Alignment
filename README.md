@@ -25,7 +25,7 @@ Download "ptcloud_regist.py" and run the script.
 This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (Grant No. 2022M1A3C2085237). 
 
 ## License
-This project is licensed under the MIT License – see the [LICENSE](./LICENSE.md) file for details.
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 Hanbeom Chang - hanbeom.chang@stonybrook.edu
