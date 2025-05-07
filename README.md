@@ -14,6 +14,9 @@
 ## Description
 A Python code for aligning two similar point cloud map for spatial alignment using the Umeyama method and ICP (Iterative Closest Point).
 
+
+https://youtu.be/YejtF04KRFE
+
 ## Prerequisites & Installation
 Download "ptcloud_regist.py" and run the script.
 
